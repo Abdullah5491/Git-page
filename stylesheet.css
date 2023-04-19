@@ -12,7 +12,7 @@
     height: 30%;
   }
   .navbar {
-    display: block;
+    display:  block;
     border: 2px solid red;
     position: absolute;
     top: 32%;
